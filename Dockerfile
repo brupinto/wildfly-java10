@@ -1,4 +1,4 @@
-FROM bp/base-jdk:10
+FROM brupinto/base-jdk:10
 
 ENV WILDFLY_VERSION 13.0.0.Final
 ENV WILDFLY_SHA1 3d63b72d9479fea0e3462264dd2250ccd96435f9
